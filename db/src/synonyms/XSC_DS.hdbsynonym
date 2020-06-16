@@ -1,0 +1,14 @@
+{
+  "NPL__DD02L": {
+    "target": {
+      "object": "DD02L",
+      "schema": "SLTNPL"
+    }
+  },
+  "A4H__DD02L": {
+    "target": {
+      "object": "DD02L",
+      "schema": "SAPHANADB"
+    }
+  }
+}
