@@ -28,7 +28,7 @@ resources:
 
  - name: cross-container-service-1
    parameters:
-      service-name: XSC_DS_1
+      service-name: XSC_DS
    properties:
       the-service-name: ${service-name}
    type: org.cloudfoundry.existing-service
